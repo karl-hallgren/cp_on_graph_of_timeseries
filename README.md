@@ -7,8 +7,9 @@ The novel graphical changepoint model, the simulation study and the datasets are
 
 The code was tested with Python 3.7, and it requires `numpy`, `pandas`, `scipy.special`, `networkx`, `matplotlib`, `pickle` 
 
-The code is organised into three folders as described below.
+Address for questions: karl.hallgren17@imperial.ac.uk
 
+The code is organised into three folders as described below.
 
 ## model_and_sampler
 
