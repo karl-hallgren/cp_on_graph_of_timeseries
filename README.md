@@ -1,7 +1,7 @@
 
 # Changepoint detection on a graph of time series
 
-Python code for the article: Hallgren K. L., Heard N. A. and Turcotte M. J (2021). "Changepoint detection on a graph of time series".
+Python code for the article: Hallgren K. L., Heard N. A. and Turcotte M. J (2021). "Changepoint detection on a graph of time series". In: arXiv e-prints. arXiv:2102.04112.
 
 The novel graphical changepoint model, the simulation study and the datasets are introduced in the article.
 
